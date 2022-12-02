@@ -1,22 +1,22 @@
 # o.g.
 online game
 
-## plan
+# plan
 
-### TODO
+## TODO
 
-#### web-server
+### web-server
 - map
 - entities
 - mainloop
 - I/O
 
-#### client
+### client
 - GUI
 - I/O
 
-### in process
+## in process
 
 - plan
 
-### done
+## done
